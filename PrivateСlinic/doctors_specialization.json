@@ -1,0 +1,14 @@
+[
+  {
+    "specialization": "Дантист",
+    "doctors": 1,
+    "receptions": 3,
+    "average": 3.0
+  },
+  {
+    "specialization": "Лор",
+    "doctors": 1,
+    "receptions": 2,
+    "average": 2.0
+  }
+]
